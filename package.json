@@ -1,0 +1,26 @@
+{
+  "name": "react-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "renderer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalMunGral/react-remote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalMunGral/react-remote/issues"
+  },
+  "homepage": "https://github.com/GalMunGral/react-remote#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fbjs": "^3.0.0",
+    "jsdom": "^16.4.0",
+    "react": "^17.0.1",
+    "react-reconciler": "^0.26.1"
+  }
+}
